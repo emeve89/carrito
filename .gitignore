@@ -10,3 +10,5 @@
 
 # rspec failure tracking
 .rspec_status
+
+settings/message_store_postgres.json
